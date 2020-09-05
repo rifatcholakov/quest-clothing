@@ -13,28 +13,28 @@ class Directory extends React.Component {
                 {
                     title: 'hats',
                     imageUrl:
-                        'https://images.unsplash.com/photo-1521369909029-2afed882baee',
+                        'https://i.imgur.com/kWcC60T.jpg',
                     id: 1,
                     linkUrl: 'shop/hats'
                 },
                 {
                     title: 'jackets',
                     imageUrl:
-                        'https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3',
+                        'https://i.imgur.com/WKhkhzL.jpg',
                     id: 2,
                     linkUrl: 'shop/jackets'
                 },
                 {
                     title: 'sneakers',
                     imageUrl:
-                        'https://images.unsplash.com/photo-1552346154-21d32810aba3',
+                        'https://i.imgur.com/iSlQyGc.jpg',
                     id: 3,
                     linkUrl: 'shop/sneakers'
                 },
                 {
                     title: 'womens',
                     imageUrl:
-                        'https://images.unsplash.com/photo-1481214110143-ed630356e1bb',
+                        'https://i.imgur.com/ItDOun0.jpg',
                     size: 'large',
                     id: 4,
                     linkUrl: 'shop/womens'
@@ -42,7 +42,7 @@ class Directory extends React.Component {
                 {
                     title: 'mens',
                     imageUrl:
-                        'https://images.unsplash.com/photo-1541421925154-ec536c75f76f',
+                        'https://i.imgur.com/Zn2mjP9.jpg',
                     size: 'large',
                     id: 5,
                     linkUrl: 'shop/mens'
